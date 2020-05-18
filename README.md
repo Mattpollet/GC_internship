@@ -1,2 +1,2 @@
 # GC_internship
-GC_internship code
+GC_internship code.
